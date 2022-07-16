@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: fdcbdaaccfe4434439841ca05e18696c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cormorant Garamond
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f8a434481fd451e43a15f38998508f79, type: 3}
+  - {fileID: 12800000, guid: dc1d598733a80df4da041f695bf6481e, type: 3}
+  - {fileID: 12800000, guid: b6924c3b43217dc42b09a87a40dd422d, type: 3}
+  - {fileID: 12800000, guid: 13c121b09f0720243b5ddedbac7e2a4a, type: 3}
+  - {fileID: 12800000, guid: 60fe258a9737caf449c1989c6bed7b2f, type: 3}
+  - {fileID: 12800000, guid: 90be39d822f39964a9a8e19cabdd8640, type: 3}
+  - {fileID: 12800000, guid: b6dc4faf169c7464d861661fcca41042, type: 3}
+  - {fileID: 12800000, guid: accd3e73c4bde59449faf9ae276bce19, type: 3}
+  - {fileID: 12800000, guid: 3d367b23e93bba644af58b5e50a60272, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
