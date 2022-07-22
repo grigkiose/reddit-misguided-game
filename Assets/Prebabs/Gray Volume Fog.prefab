@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 360146277268357957}
-  m_Layer: 0
+  m_Layer: 1
   m_Name: Gray Volume Fog
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42,7 +42,7 @@ GameObject:
   - component: {fileID: 2583524182199231003}
   - component: {fileID: 1584857373361884958}
   - component: {fileID: 2406548077834630580}
-  m_Layer: 0
+  m_Layer: 1
   m_Name: Particle System
   m_TagString: Untagged
   m_Icon: {fileID: 0}

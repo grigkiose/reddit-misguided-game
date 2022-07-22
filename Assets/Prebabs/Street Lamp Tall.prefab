@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 284795926}
   - component: {fileID: 284795927}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Point Light (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -104,7 +104,7 @@ GameObject:
   - component: {fileID: 2067251642107355210}
   - component: {fileID: 3107345200849743855}
   - component: {fileID: 935471874907380517}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Street Lamp Tall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -186,7 +186,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1962130277444577044}
   - component: {fileID: 1962130277444577045}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Point Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
